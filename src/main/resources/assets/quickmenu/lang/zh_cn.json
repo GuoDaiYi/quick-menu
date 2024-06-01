@@ -32,7 +32,7 @@
 
   "text.config.quickmenu.option.menuWidth": "菜单宽度",
   "text.config.quickmenu.option.menuHeight": "菜单高度",
-    "text.config.quickmenu.option.buttonsPerRow": "每行显示按钮",
+    "text.config.quickmenu.option.buttonsPerRow": "每行按钮数",
   "text.config.quickmenu.option.closeOnAction": "触发行为时关闭",
   "text.config.quickmenu.option.closeOnKeyReleased": "按住时打开图标",
   "text.config.quickmenu.option.hideEditIcon": "隐藏物品图标",
